@@ -5,3 +5,4 @@ print(a+b)
 c=30
 print(c)
 print("final")
+c=print("staged")
