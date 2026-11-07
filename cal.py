@@ -6,3 +6,4 @@ c=30
 print(c)
 print("final")
 c=print("staged")
+print("new")
