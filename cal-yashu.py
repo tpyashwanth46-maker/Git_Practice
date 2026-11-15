@@ -1,0 +1,24 @@
+print("second file")
+a=10
+b=20
+print(a+b)
+c=30
+print(c)
+print("final")
+c=print("staged")
+print("new")
+print("new_line")
+print("added_to_12th_version")
+print("yash")
+print("menu")
+print("VS code")
+print("new line added")
+print("nw")
+print("not_added_new_line")
+<<<<<<< HEAD
+print("yash")
+=======
+print("yash")
+print("new_line")
+print("new_yash")
+>>>>>>> new_branch_f
