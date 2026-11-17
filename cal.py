@@ -24,8 +24,5 @@ print("edited_in_github")
 print("added in new branch")
 print("fish")
 print("new_fish")
-<<<<<<< HEAD
 print("ammended_flos")
-=======
-print("git hub")
->>>>>>> 8966c838ec56d3866178e9a9a7fa4e3d2b9605c1
+print("git_hub")
