@@ -31,5 +31,9 @@ print("because added")
 print("final")
 print("edieted")
 print("menu")
+<<<<<<< HEAD
 print("neu")
 print("uy")
+=======
+print("check")
+>>>>>>> 0182e203dbdaabd66b0461a771e8fc35992c1f06
